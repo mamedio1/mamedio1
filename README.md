@@ -7,7 +7,7 @@ Eu sou o Robson sou programador Front End, atualmente estou aprendendo e criando
 E iniciando os estudos em :
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Java-logo" />
 
-![mamedio1's Stats](https://github-readme-stats.vercel.app/api?username=mamedio1&theme=merko&show_icons=true&hide_border=true&count_private=true) ![mamedio1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamedio1&theme=merko&show_icons=true&hide_border=true&layout=compact)
+![mamedio1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamedio1&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 
 
